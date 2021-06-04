@@ -33,6 +33,7 @@ ul{
   padding: 20px 0;
   font-size: 13px;
   background-color: #E9F5F6;
+  margin: 10px;
 }
 
 .main-nav .logo{
@@ -53,4 +54,10 @@ ul{
 
 .main-nav ul li a:hover{
   border-bottom: 2px solid #262626;
+}
+
+/* showcase */
+#showcase{
+  width: 100%;
+  height: 600px;
 }
