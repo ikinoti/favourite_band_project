@@ -84,3 +84,11 @@ ul{
   width: 80%;
   margin: auto;
 }
+
+.bio{
+  margin: 3em;
+}
+
+#kench, #mod, #skoko{
+  margin-bottom: 20px;
+}
