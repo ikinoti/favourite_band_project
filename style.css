@@ -6,6 +6,8 @@
 body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: url(/images/hthe_band.png) no-repeat center/cover;
+  
+  
   color: white;
   font-size: 15px;
   line-height: 1.5;
@@ -61,8 +63,8 @@ a:link{
 }
 a:hover{
   font-size: 20px;
-  background-color: white;
-  color:black;
+  background-color: black;
+  color:blue;
 }
 
 a:visited{
@@ -78,6 +80,10 @@ a:visited{
   text-align: center;
   line-height: 2em;
 }
+
+.about h2{
+  color: #ff4500;
+}
 /* music section */
 .music{
   display: flex;
@@ -86,6 +92,12 @@ a:visited{
   margin-top: 10px;
   line-height: 2em;
   border: 1px solid #808080;
+  height: 400px;
+}
+
+.songs{
+  height: 90%;
+  overflow: scroll;
 }
 
 /* biography page */
