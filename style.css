@@ -35,9 +35,15 @@ h3{
   height: 60px;
   padding: 20px 0;
   font-size: 13px;
-  background-color: #E9F5F6;
+  background-color: #bfc9ca;
   margin: 10px;
-  /* border: 2px solid red; */
+  text-transform: uppercase;
+  
+}
+
+.current{
+  font-weight: bold;
+  color: #9b290a;
 }
 
 .main-nav .logo{
@@ -66,7 +72,7 @@ a:link{
 }
 a:hover{
   font-size: 20px;
-  background-color: black;
+  background-color: grey;
   color:blue;
 }
 
